@@ -2,4 +2,8 @@ pandas
 numpy
 requests
 seaborn
--e .
+scikit-learn
+matplotlib
+catboost
+xgboost
+# -e .
